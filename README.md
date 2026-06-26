@@ -1,2 +1,3 @@
 # instrumentRs-website
-Website for instrument.rs
+
+The future web presence of `instrumentRs`.
